@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hi I am Kaushal Pathak <br>Experienced Full Stack Web Developer with over 1200 hours of coding proficiency at Masai, specializing in React.js, HTML, CSS, and JavaScript. Known for problem-solving, effective collaboration, and committed to developing responsive, scalable, and optimized user interfaces.
+<h1>Hi I am Kaushal Pathak</h1> 
+<br>Experienced Full Stack Web Developer with over 1200 hours of coding proficiency at Masai, specializing in React.js, HTML, CSS, and JavaScript. Known for problem-solving, effective collaboration, and committed to developing responsive, scalable, and optimized user interfaces.
 
 
 ## 🌐 Socials:
